@@ -1,11 +1,11 @@
-## Script Requirements
+## Script requirements
 
 To run this script, make sure that the following files are in the same directory as the script:
 
 - `peptide_data.csv`: This file should contain a list of peptides and their corresponding information. The format should be the same as in the R script provided.
 - `protein_sequences.fasta`: This file should contain the protein sequences that you want to analyze. The format should be the same as in a typical FASTA file.
 
-## How the Script Works
+## How the script works
 
 The script first defines two functions: `calculate_coverage` and `plot_coverage`.
 
